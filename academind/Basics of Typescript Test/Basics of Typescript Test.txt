@@ -1,0 +1,6 @@
+Basics of Typescript Test:
+
+1.Play around with Types(Number,String,Boolean,Object,Tuple,Enum,Any,Undefined,Void,Literal,Unison,
+Aliases,Unknown,Never)
+2.Play around with Function Types
+3.Compile ts files automatically and use tsconfig.json to do that

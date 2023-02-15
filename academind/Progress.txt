@@ -1,0 +1,40 @@
+Progress(Academind's Tutorial)
+-done Getting Started
+-done What is Typescript
+-done Installing and Using Typescript
+-done Advantages of Typescript
+-done Course Outline
+-done How to get most out of this course
+-done Setting up or development environment
+-done Course Project Setup
+-done Using Types
+-done Typescript Types vs Javascript Types
+-done Number,Strings and Booleans
+-done Type Assignment and Type Inference
+-done Object Types
+-done Array Types
+-done Tuples
+-done Enums
+-done Any Type
+-done Union Types
+-done Literal Types
+-done Type Aliases
+-done Function Return Types and Void
+-done Function Types
+-done Function Types and Callbacks
+-done Unknown Type
+-done Never Type
+-done Wrap Up
+-done Watch Node
+-done Compiling the Entire Project
+-done Include and Exclude Files
+-done Setting a Compilation Target
+-done Understanding TypeScript Libs
+-done More Options
+-done Source Maps
+-done Rootdir and Outdir
+-done noemit on Error
+-done Strict Compilation Options
+-done Code Quality Options
+-done Debugging with Visual Studio Code
+-done Wrap Up
